@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @brunoouchoa
-- 👀 I’m interested in  ajudar as pessoas  e aprender com todos
-- 🌱 I’m currently learning desenvolvimento Front-end e ciência de dados , aprender cada vez mais qualquer que seja a linguagem
-- 💞️ I’m looking to collaborate on  resolver os problemas que estiver ao meu alcance e melhorar sempre.
-- 📫 How to reach me, basta  me adicionar ao linkededIN 
-Segue o Link www.linkedin.com/in/brunouchôa
+ # 👋 Olá, eu sou o Bruno Uchôa.
 
-<!---
-brunoouchoa/brunoouchoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Busco aprender e contribuir por meio da programação✌🌐
+
+ #### 👍 Pretendo colaborar na resolução dos problemas que estiver ao meu alcance e melhorar sempre.
+
+#### 📫 Contate-me via 
+
+<div>
+  <a href="https://www.linkedin.com/in/brunouch%C3%B4a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a href="mailto:brunoo.uchoa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+ </div>
+ 
+###### 💪 Obrigado pela sua visita.
+
+🏁
+
+
+
+
+
